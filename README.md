@@ -1,4 +1,4 @@
-# -CODSOFT
+codsoft_task3
 
 **ATM Interface Java Program**
 
